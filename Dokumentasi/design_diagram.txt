@@ -1,0 +1,27 @@
+TP2 DPBO - DESIGN DIAGRAM
+
+Produk
+  |
+  | inheritance
+  v
+ProdukElektronik
+  |
+  | inheritance
+  v
+Laptop
+
+Produk:
+- nama
+- kategori
+- kode
+- harga
+
+ProdukElektronik:
+- merek
+- garansi
+- daya
+
+Laptop:
+- ram
+- storage
+- processor
